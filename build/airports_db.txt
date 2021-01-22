@@ -1,0 +1,347 @@
+12391, Long Island MacArthur,Islip- NY,40.47,-73
+14570, Reno/Tahoe International,Reno- NV,39.29,-119.46
+13360, Melbourne International,Melbourne- FL,37.40,-144.5
+13121, Greenbrier Valley,Lewisburg- WV,37.5,-80.2
+14574, Roanoke Blacksburg Regional Woodrum Field,Roanoke- VA,37.19,-79.58
+13485, Dane County Regional-Truax Field,Madison- WI,43,-89.2
+13241, Key Field,Meridian- MS,32.19,-88.45
+11867, Garden City Regional,Garden City- KS,37.55,-100.4
+11624, Key West International,Key West- FL,24.3,-81.45
+11503, Eagle County Regional,Eagle- CO,39.38,-106.55
+10779, Bert Mooney,Butte- MT,45.57,-112.29
+15304, Tampa International,Tampa- FL,27.58,-82.3
+11980, Central Nebraska Regional,Grand Island- NE,40.58,-98.18
+13367, Quad City International,Moline- IL,41.26,-90.3
+11067, University of Illinois/Willard,Champaign/Urbana- IL,40,-88.16
+14698, San Luis County Regional,San Luis Obispo- CA,35.14,-120.38
+12156, Helena Regional,Helena- MT,46.36,-111.58
+11066, John Glenn Columbus International,Columbus- OH,39.59,-82.53
+14457, Rapid City Regional,Rapid City- SD,44.02,-103
+13244, Memphis International,Memphis- TN,35,-89.5
+13486, Missoula International,Missoula- MT,46.5,-114
+11982, Robert Gray AAF,Killeen- TX,31.04,-97.49
+14696, South Bend International,South Bend- IN,41.4,-86.1
+12397, Ithaca Tompkins Regional,Ithaca/Cortland- NY,42.2,-76.2
+12278, Wichita Dwight D Eisenhower National,Wichita- KS,37.3,-97.2
+13487, Minneapolis-St Paul International,Minneapolis- MN,44.5,-93.1
+14576, Greater Rochester International,Rochester- NY,43.7,-77.4
+12953, LaGuardia,New York- NY,40.46,-73.5
+12954, Long Beach Airport,Long Beach- CA,33.4,-118
+11986, Gerald R. Ford International,Grand Rapids- MI,42.5,-85.3
+12951, Lafayette Regional Paul Fournet Field,Lafayette- LA,30.12,-91.5
+11865, Gillette Campbell County,Gillette- WY,44.2,-105.3
+13127, Lewiston Nez Perce County,Lewiston- ID,46.2,-117
+12280, Idaho Falls Regional,Idaho Falls- ID,43.3,-112.04
+11193, Cincinnati/Northern Kentucky International,Cincinnati- OH,39,-84.4
+13495, Louis Armstrong New Orleans International,New Orleans- LA,29.5,-90.1
+14100, Philadelphia International,Philadelphia- PA,39.5,-75
+14222, Pago Pago International,Pago Pago- TT,14,-170.4
+11076, Houghton County Memorial,Hancock/Houghton- MI,47,-88
+14905, Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria- CA,34.5,-120
+11638, Fresno Yosemite International,Fresno- CA,36.4,-119.4
+11637, Hector International,Fargo- ND,46.5,-96.4
+14908, John Wayne Airport-Orange County,Santa Ana- CA,33.4,-117.5
+10781, Baton Rouge Metropolitan/Ryan Field,Baton Rouge- LA,30.3,-91
+14588, Roswell International Air Center,Roswell- NM,33.1,-104.3
+11630, Fairbanks International,Fairbanks- AK,64.4,-147.5
+13377, Monroe Regional,Monroe- LA,32.3,-92
+13256, McAllen Miller International,Mission/McAllen/Edinburg- TX,26.1,-98
+10785, Burlington International,Burlington- VT,44.2,-73
+11995, Piedmont Triad International,Greensboro/High Point- NC,36,-79.5
+14108, General Downing - Peoria International,Peoria- IL,40,-89.4
+13933, Worcester Regional,Worcester- MA,42.1,-71.5
+14109, Hattiesburg-Laurel Regional,Hattiesburg/Laurel- MS,31.2,-89.2
+13930, Chicago O'Hare International,Chicago- IL,41.5,-87.5
+10666, Bellingham International,Bellingham- WA,48.4,-122.3
+14107, Phoenix Sky Harbor International,Phoenix- AZ,33.2,-112
+10423, Austin - Bergstrom International,Austin- TX,30.1,-97.4
+13931, Norfolk International,Norfolk- VA,36.5,-76
+11996, Greenville-Spartanburg International,Greer- SC,34.5,-82
+13139, Lynchburg Regional/Preston Glenn Field,Lynchburg- VA,37,-79
+13342, General Mitchell International,Milwaukee- WI,42.5,-87.5
+14794, St George Regional,St. George- UT,37,-113.3
+11042, Cleveland-Hopkins International,Cleveland- OH,41.2,-81.5
+11603, Mahlon Sweet Field,Eugene- OR,44,-123.1
+12819, Ketchikan International,Ketchikan- AK,55.2,-131.4
+10990, Charlottesville Albemarle,Charlottesville- VA,38,-78
+12255, Hays Regional,Hays- KS,38.5,-99
+14314, Provo Municipal,Provo- UT,40,-111.4
+12012, Gunnison-Crested Butte Regional,Gunnison- CO,38.3,-106.5
+15401, Texarkana Regional-Webb Field,Texarkana- AR,33.2,-93.5
+14674, Santa Fe Municipal,Santa Fe- NM,35.3,-106
+13344, Muskegon County,Muskegon- MI,43,-86
+10994, Charleston AFB/International,Charleston- SC,32.5,-80
+11049, Easterwood Field,College Station/Bryan- TX,30.3,-96.2
+10631, Bemidji Regional,Bemidji- MN,47.3,-94
+12016, Guam International,Guam- TT,13.2,144.4
+10754, Wiley Post/Will Rogers Memorial,Barrow- AK,71,-156
+14679, San Diego International,San Diego- CA,32.4,-117
+11721, Bishop International,Flint- MI,42.5,-83
+10874, Akron-Canton Regional,Akron- OH,40.5,-81.2
+11292, Denver International,Denver- CO,39.5,-104
+15096, Syracuse Hancock International,Syracuse- NY,43,-76
+14683, San Antonio International,San Antonio- TX,29.3,-98.2
+14321, Portland International Jetport,Portland- ME,45.3,-122.3
+13232, Chicago Midway International,Chicago- IL,41.4,-87.4
+12264, Washington Dulles International,Washington- DC,38.5,-77.2
+13230, Harrisburg International,Harrisburg- PA,40.1,-76.4
+11977, Green Bay Austin Straubel International,Green Bay- WI,44.2,-88
+12945, Blue Grass,Lexington- KY, 38,-84.3
+11618, Newark Liberty International,Newark- NJ,40.4,-74
+10529, Bradley International,Hartford- CT,41.5,-72.4
+10408, Appleton International,Appleton- WI,44.1,-88.3
+11617, Coastal Carolina Regional,New Bern/Morehead/Beaufort- NC,35,-77
+11298, Dallas/Fort Worth International,Dallas/Fort Worth- TX,32.5,-97
+12266, George Bush Intercontinental/Houston,Houston- TX,29.5,-95.2
+12265, Niagara Falls International,Niagara Falls- NY,43,-78.5
+12389, Sloulin Field International,Williston- ND,48.1,-103.3
+15412, McGhee Tyson,Knoxville- TN,35.4,-83.5
+14685, Savannah/Hilton Head International,Savannah- GA,32,-81.1
+11057, Charlotte Douglas International,Charlotte- NC,35,-80.5
+13476, Monterey Regional,Monterey- CA,36.3,-121.5
+15411, Tyler Pounds Regional,Tyler- TX,32.2,-95.2
+11973, Gulfport-Biloxi International,Gulfport/Biloxi- MS,30.2,-89
+11612, Evansville Regional,Evansville- IN,38,-87.3
+14689, Santa Barbara Municipal,Santa Barbara- CA,34.2,-119.5
+10170, Kodiak Airport,Kodiak- AK,57.4,-152.2
+14771, San Francisco International,San Francisco- CA,37.3,-122.2
+11140, Corpus Christi International,Corpus Christi- TX,27.4,-97.3
+14893, Sacramento International,Sacramento- CA,38.4,-121.3
+14098, Newport News/Williamsburg International,Newport News/Williamsburg- VA,37,-76.2
+11823, Fort Wayne International,Fort Wayne- IN,40.5,-85
+12119, Hagerstown Regional-Richard A. Henson Field,Hagerstown- MD,39.4,-77
+12917, Rickenbacker International,Columbus- OH,39.4,-82.5
+12915, Lake Charles Regional,Lake Charles- LA,30,-93
+10739, Brainerd Lakes Regional,Brainerd- MN,46.2,-94
+11146, Yeager,Charleston/Dunbar- WV,38.2,-81.3
+10299, Ted Stevens Anchorage International,Anchorage- AK,61.1,-149.5
+11267, James M Cox/Dayton International,Dayton- OH,39.5,-84
+11027, North Central West Virginia,Clarksburg/Fairmont- WV,39,-80
+13204, Orlando International,Orlando- FL,28.2,-81
+12478, John F. Kennedy International,New York- NY,40.3,-73.4
+10732, Rafael Hernandez,Aguadilla- PR,18.2,-67
+15624, Eglin AFB Destin Fort Walton Beach,Valparaiso- FL,30.2,-86.3
+10731, Brunswick Golden Isles,Brunswick- GA,31,-81.2
+15074, Stillwater Regional,Stillwater- OK,36,-97
+14783, Springfield-Branson National,Springfield- MO,37,-93.2
+11150, Columbus Airport,Columbus- GA,39.5,-82.5
+10185, Alexandria International,Alexandria- LA,31,-92.3
+11274, Dubuque Regional,Dubuque- IA,42.2,-90
+15991, Yakutat Airport,Yakutat- AK,59.3,-139.3
+15070, Stewart International,Newburgh/Poughkeepsie- NY,41.3,-74
+10868, Columbia Metropolitan,Columbia- SC,33.5,-81
+10747, Brownsville South Padre Island International,Brownsville- TX,25.5,-97.2
+10627, Bismarck Municipal,Bismarck/Mandan- ND,46.4,-100.4
+12244, Tweed New Haven,New Haven- CT,41.1,-72.5
+13577, Myrtle Beach International,Myrtle Beach- SC,33.4,-78.5
+11278, Ronald Reagan Washington National,Washington- DC,38.5,-77
+10980, Lovell Field,Chattanooga- TN,35.04,-85.2
+12003, Great Falls International,Great Falls- MT,47.2,-111.2
+14543, Southwest Wyoming Regional,Rock Springs- WY,41.3,-109
+12124, Hilton Head Airport,Hilton Head- SC,32.1,-80.4
+10620, Billings Logan International,Billings- MT,45.4,-108.3
+13459, Sawyer International,Marquette- MI,46.2,-87.2
+14307, Theodore Francis Green State,Providence- RI,41.4,-71.2
+11953, Gainesville Regional,Gainesville- FL,29.4,-82
+12129, Range Regional,Hibbing- MN,47.2,-92.5
+12007, Golden Triangle Regional,Columbus- MS,33.2,-88.3
+14193, Pensacola International,Pensacola- FL,30.2,-87.1
+15041, Friedman Memorial,Sun Valley/Hailey/Ketchum- ID,43.3,-114.1
+11481, Northwest Florida Beaches International,Panama City- FL,30.2,-85.4
+12451, Jacksonville International,Jacksonville- FL,30.2,-81.4
+11921, Grand Junction Regional,Grand Junction- CO,39,-108.3
+12339, Indianapolis International,Indianapolis- IN,39.4,-86
+15607, Valdosta Regional,Valdosta- GA,30.4,-83
+10713, Boise Air Terminal,Boise- ID,43.3,-116
+13422, Mobile Regional,Mobile- AL,30.4,-88
+11122, Casper/Natrona County International,Casper- WY,42.5,-106.2
+14633, Rochester International,Rochester- MN,43.5,-92.3
+14512, Chicago/Rockford International,Rockford- IL,42,-89
+11003, The Eastern Iowa,Cedar Rapids/Iowa City- IA,41.5,-91.4
+15841, Wrangell Airport,Wrangell- AK,56.2,-132.2
+10397, Hartsfield-Jackson Atlanta International,Atlanta- GA,33.3,-84.2
+10155, Waco Regional,Waco- TX,31.3,-97
+15048, Sioux Gateway/Col. Bud Day Field,Sioux City- IA,42.2,-96
+10279, Rick Husband Amarillo International,Amarillo- TX,35,-101.4
+10158, Atlantic City International,Atlantic City- NJ,39.2,-74.3
+10157, California Redwood Coast Humboldt County,Arcata/Eureka- CA,40.5,-125.5
+13303, Miami International,Miami- FL,25.4,-80
+12217, Huntsville International-Carl T Jones Field,Huntsville- AL,34.3,-86.4
+12335, Ford,Iron Mountain/Kingsfd- MI,42.5,-85.3
+14635, Southwest Florida International,Fort Myers- FL,26.3,-81.4
+14877, Salina Regional,Salina- KS,38.4,-97.3
+15295, Toledo Express,Toledo- OH,41.3,-83.4
+14761, Orlando Sanford International,Sanford- FL,28.4,-81
+11252, Daytona Beach International,Daytona Beach- FL,29.1,-81
+14082, Punta Gorda Airport,Punta Gorda- FL,26.5,-81.5
+12902, Liberal Mid-America Regional,Liberal- KS,37,-100.5
+10967, Cape Girardeau Regional,Cape Girardeau- MO,37,-89.3
+10849, Bozeman Yellowstone International,Bozeman- MT,45.7,-111
+10728, Jack Brooks Regional,Beaumont/Port Arthur- TX,29.5,-94
+13796, Metropolitan Oakland International,Oakland- CA,37.4,-122
+13433, Minot International,Minot- ND,48,-101
+10165, Adak,Adak Island- AK,51.5,-176.3
+14520, Rhinelander/Oneida County,Rhinelander- WI,45.3,-89.2
+13795, Albert J Ellis,Jacksonville/Camp Lejeune- NC,34.4,-77.3
+12223, Tri-State/Milton J. Ferguson Field,Ashland- WV,38.2,-82.3
+11013, Chippewa County International,Sault Ste. Marie- MI,46,-84.2
+12343, Falls International Einarson Field,International Falls- MN,48.3,-93.2
+10721, Logan International,Boston- MA,42.2,-71
+14524, Richmond International,Richmond- VA,37,-77
+11259, Dallas Love Field,Dallas- TX,32.5,-96.5
+14057, Portland International,Portland- OR,45.3,-122.3
+15024, Cyril E King,Charlotte Amalie- VI,18.2,-64.5
+15023, Charles M. Schulz - Sonoma County,Santa Rosa- CA,38.3,-122.4
+10372, Aspen Pitkin County Sardy Field,Aspen- CO,39,-106.5
+15380, Cherry Capital,Traverse City- MI,44.4,-85.3
+11109, City of Colorado Springs Municipal,Colorado Springs- CO,38.4,-104.4
+11905, East Texas Regional,Longview- TX,32.2,-94.4
+15027, Henry E. Rohlsen,Christiansted- VI,17.4,-64.4
+14730, Louisville International-Standiford Field,Louisville- KY,38,-85.4
+15389, Joslin Field - Magic Valley Regional,Twin Falls- ID,42.2,-114.2
+10257, Albany International,Albany- NY,42.4,-73.4
+10136, Abilene Regional,Abilene- TX,32.2,-99.4
+10135, Lehigh Valley International,Allentown/Bethlehem/Easton- PA,40.3,-75.2
+11587, Delta County,Escanaba- MI,45.4,-87
+11468, Kearney Regional,Kearney- NE,40.3,-99
+13891, Ontario International,Ontario- CA,34,-117.3
+10141, Aberdeen Regional,Aberdeen- SD,45.2,-98.2
+10140, Albuquerque International Sunport,Albuquerque- NM,35,-106.3
+11471, Chippewa Valley Regional,Eau Claire- WI,44.5,-91.2
+10821, Baltimore/Washington International Thurgood Marshall,Baltimore- MD,39,-76.4
+14869, Salt Lake City International,Salt Lake City- UT,40.4,-111.5
+11111, Columbia Regional,Columbia- MO,38.4,-92
+12323, Wilmington International,Wilmington- NC,34,-77.5
+12441, Jackson Hole,Jackson- WY,43.3,-110.4
+11233, Cheyenne Regional/Jerry Olson Field,Cheyenne- WY,41.9,-104.4
+10268, Waterloo Regional,Waterloo- IA,42.3,-92.2
+14747, Seattle/Tacoma International,Seattle- WA,47.26,-122
+12448, Jackson Medgar Wiley Evers International,Jackson/Vicksburg- MS,32,-90
+10146, Southwest Georgia Regional,Albany- GA,31.3,-84
+14986, Sarasota/Bradenton International,Sarasota/Bradenton- FL,27.2,-82.3
+12206, Valley International,Harlingen/San Benito- TX,26,-97.3
+13184, MBS International,Saginaw/Bay City/Midland- MI,43.3,-84
+12094, Yampa Valley,Hayden- CO,40.2,-107
+13061, Laredo International,Laredo- TX,27.3,-99.2
+14150, Pellston Regional Airport of Emmet County,Pellston- MI,45.3,-84.4
+12891, Lawton-Fort Sill Regional,Lawton/Fort Sill- OK,34.3,-98.2
+14716, Stockton Metropolitan,Stockton- CA,37.5,-121
+15249, Tallahassee International,Tallahassee- FL,30.2,-84.2
+13983, Owensboro Daviess County Regional,Owensboro- KY,37.4,-87
+14831, Norman Y. Mineta San Jose International,San Jose- CA,37,-121.5
+14952, Abraham Lincoln Capital,Springfield- IL,39.5,-89.4
+12892, Los Angeles International,Los Angeles- CA,33.5,-118.2
+11203, Central Wisconsin,Mosinee- WI,44.4,-89.4
+12898, Arnold Palmer Regional,Latrobe- PA,40,-79.2
+14955, Francisco C. Ada Saipan International,Saipan- TT,15,145
+12899, North Platte Regional Airport Lee Bird Field,North Platte- NE,41,-100.4
+12896, Lubbock Preston Smith International,Lubbock- TX,33.3,-101.4
+14711, University Park,State College- PA,40.5,-77.5
+11447, Devils Lake Regional,Devils Lake- ND,48,-98.5
+10599, Birmingham-Shuttlesworth International,Birmingham- AL,33.3,-86.4
+15008, St. Cloud Regional,St. Cloud- MN,45.3,-94
+13502, Montrose Regional,Montrose/Delta- CO,38.33,-107.5
+16218, Yuma MCAS/Yuma International,Yuma- AZ,32.3,-114.3
+15370, Tulsa International,Tulsa- OK,36,-95.5
+13198, Kansas City International,Kansas City- MO,39,-94.4
+15376, Tucson International,Tucson- AZ,32,-110.5
+14288, Pueblo Memorial,Pueblo- CO,38,-104.2
+10361, Watertown International,Watertown- NY,43.5,-76
+13076, La Crosse Regional,La Crosse- WI,43.5,-91
+10918, Cedar City Regional,Cedar City- UT,37.4,-113
+10800, Bob Hope,Burbank- CA,34,-118.2
+10926, Merle K Mudhole Smith,Cordova- AK,60,-145.2
+13873, Nome Airport,Nome- AK,64.3,-165.2
+14842, San Angelo Regional/Mathis Field,San Angelo- TX,31.2,-100.2
+15016, St Louis Lambert International,St. Louis- MO,38.4,-90.2
+13871, Eppley Airfield,Omaha- NE,41.3,-95.8
+14960, Sheppard AFB/Wichita Falls Municipal,Wichita Falls- TX,33.5,-98.2
+11695, Flagstaff Pulliam,Flagstaff- AZ,35,-111.4
+11577, Erie International/Tom Ridge Field,Erie- PA,42,-80
+11697, Fort Lauderdale-Hollywood International,Fort Lauderdale- FL,26,-80
+14843, Luis Munoz Marin International,San Juan- PR,18.2,-66
+12544, Concord Padgett Regional,CONCORD- NC,35.2,-80.4
+11337, Duluth International,Duluth- MN,46.5,-92
+14492, Raleigh-Durham International,Raleigh/Durham- NC,35.5,-78.4
+15582, Vernal Regional,Vernal- UT,40.2,-109.3
+12191, William P Hobby,Houston- TX,29.3,-95
+14254, Mercedita,Ponce- PR,18,-66.3
+14252, Tri Cities,Pasco/Kennewick/Richland- WA,36.2,-82.2
+12197, Westchester County,White Plains- NY,41,-73.4
+14814, Shreveport Regional,Shreveport- LA,32.2,-93.4
+11308, Dothan Regional,Dothan- AL,31,-85.2
+12758, Ellison Onizuka Kona International at Keahole,Kona- HI,19.4,-156
+12519, Jamestown Regional,Jamestown- ND,46.5,-98.4
+10693, Nashville International,Nashville- TN,36,-86.4
+11540, El Paso International,El Paso- TX,31.4,-106.2
+14259, Portsmouth International at Pease,Portsmouth- NH,43,-70
+14256, Petersburg James A Johnson,Petersburg- AK,56.4,-132.5
+12992, Bill and Hillary Clinton Nat Adams Field,Little Rock- AR,34.4,-92
+11423, Des Moines International,Des Moines- IA,41.3,-93.3
+10333, Alpena County Regional,Alpena- MI,45,-83.3
+12511, Joplin Regional,Joplin- MO,37,-94.2
+13964, Southwest Oregon Regional,North Bend/Coos Bay- OR,43,-124
+10577, Greater Binghamton/Edwin A. Link Field,Binghamton- NY,42,-75.5
+14262, Palm Springs International,Palm Springs- CA,33.4,-116.3
+10581, Bangor International,Bangor- ME,44.4,-68.4
+13296, Manchester-Boston Regional,Manchester- NH,42.5,-71.2
+13290, Manhattan Regional,Manhattan/Ft. Riley- KS,39,-96.4
+10469, Kalamazoo/Battle Creek International,Kalamazoo- MI,42,-85.3
+14828, Sitka Rocky Gutierrez,Sitka- AK,57,-135.2
+12889, McCarran International,Las Vegas- NV,36,-115
+15919, Northwest Arkansas Regional,Fayetteville- AR,36,-94
+14709, Deadhorse Airport,Deadhorse- AK,70,-148.2
+14027, Palm Beach International,West Palm Beach/Palm Beach- FL,26.4,-80
+13851, Will Rogers World,Oklahoma City- OK,35.2,-97.3
+12884, Capital Region International,Lansing- MI,42.4,-84.3
+14025, Plattsburgh International,Plattsburgh- NY,44.3,-73.2
+13970, Ralph Wien Memorial,Kotzebue- AK,66.5,-162.3
+15356, Trenton Mercer,Trenton- NJ,40,-74.4
+10466, Phoenix - Mesa Gateway,Phoenix- AZ,33,-111.3
+11433, Detroit Metro Wayne County,Detroit- MI,42,-83.2
+12888, Laramie Regional,Laramie- WY,41,-105.4
+12402, Hilo International,Hilo- HI,19.4,-155
+12523, Juneau International,Juneau- AK,58.2,-134.3
+13264, Rogue Valley International - Medford,Medford- OR,42.2,-122.5
+12173, Daniel K Inouye International,Honolulu- HI,21,-157.5
+14112, St Pete Clearwater International,St. Petersburg- FL,27.5,-82.4
+10558, Western Neb. Regional/William B. Heilig Field,Scottsbluff- NE,41.5,-103.3
+11525, Elko Regional,Elko- NV,40.4,-115.4
+11648, Glacier Park International,Kalispell- MT,48,-114
+13829, Ogden-Hinckley,Ogden- UT,41,-112
+10792, Buffalo Niagara International,Buffalo- NY,42.5,-78.4
+12177, Lea County Regional,Hobbs- NM,32.4,-103
+14237, Ernest A. Love Field,Prescott- AZ,34.3,-112.2
+11641, Fayetteville Regional/Grannis Field,Fayetteville- NC,34.5,-78.5
+10431, Asheville Regional,Asheville- NC,35.2,-82.3
+14113, Pocatello Regional,Pocatello- ID,45.5,-112.3
+15323, Tri Cities,Bristol/Johnson City/Kingsport- TN,36.2,-82.2
+10551, Bethel Airport,Bethel- AK,60.4,-161.5
+13388, Mammoth Lakes Airport,Mammoth Lakes- CA,37.3,-118.5
+11884, Spokane International,Spokane- WA,47.3,-117.3
+10434, Wilkes Barre Scranton International,Scranton/Wilkes-Barre- PA,41.2,-75.4
+10676, Scott AFB/MidAmerica,Belleville- IL,38.3,-89.5
+13029, Lincoln Airport,Lincoln- NE,40.5,-96.4
+11092, Canyonlands Field,Moab- UT,38.4,-109.4
+14122, Pittsburgh International,Pittsburgh- PA,40.4,-80.2
+15454, Quincy Regional-Baldwin Field,Quincy- IL,39.5,-91
+11097, Yellowstone Regional,Cody- WY,44.3,-109
+11537, Elmira/Corning Regional,Elmira/Corning- NY,42,-76.5
+11778, Fort Smith Regional,Fort Smith- AR,35.2,-94.2
+11415, Del Rio International,Del Rio- TX,29.2,-100.5
+10208, Augusta Regional at Bush Field,Augusta- GA,33.2,-81.5
+12982, Lihue Airport,Lihue- HI,21.5,-159.2
+13158, Midland International Air and Space Port,Midland/Odessa- TX,31.5,-102
+10561, Meadows Field,Bakersfield- CA,35.2,-119
+14489, Roberts Field,Bend/Redmond- OR,44.2,-121
+13830, Kahului Airport,Kahului- HI,20.5,-156.2
+14006, Barkley Regional,Paducah- KY,37,-88.4
+13277, Montgomery Regional,Montgomery- AL,32,-86.2
+14487, Redding Municipal,Redding- CA,40.3,-122
+14004, Snohomish County,Everett- WA,47.9,-122.2
+11775, Joe Foss Field,Sioux Falls- SD,43.5,-96.7
+10685, Central Illinois Regional,Bloomington/Normal- IL,40.2,-88.5
+14802, Shenandoah Valley Regional,Staunton- VA,38,-78.5
+11898, Grand Forks International,Grand Forks- ND,47.5,-97
+11413, Durango La Plata County,Durango- CO,37,-107.5
+13832, Ogdensburg International,Ogdensburg- NY,44.4,-75.2
